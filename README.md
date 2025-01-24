@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+☁️ System/Network Administrator with a passion for Cloud/DevOps<br>📚 Studied at the University of Maryland, College Park<br>👨🏻‍🍳 Cooking up services and automation in my home lab<br>🛠️ Working with tools such as:<br>- Proxmox ⏿<br>- Ansible 🚗<br>- Terraform 🏢<br>- Azure 😶‍🌫️<br>- Linux 🐧<br>- Jenkins 💂🏼<br>- Gitea ☕️
 
-<!--
-**AsianBandit004/AsianBandit004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-sahibzada-86b46670) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=plastic&logo=InfluxDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=plastic&logo=gitea&logoColor=5D9425) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=plastic&logo=Jellyfin&logoColor=00A4DC) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=plastic&logo=plex&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=plastic&logo=HumbleBundle&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AsianBandit004&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsianBandit004&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsianBandit004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AsianBandit004&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
